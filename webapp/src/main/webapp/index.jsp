@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Abhijeet's World Of Technologies !!! </h1>
+<h1> Hello, Welcome to Abhijeet's World Of AI Related Medium Blog and Something new everyday !!! </h1>
 
